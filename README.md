@@ -1,4 +1,8 @@
 humorwebsite
 ============
 a project I started to work on during the summer 2014. It will become a humor site similar to 9gag.
-screenshot as of now: http://i.imgur.com/7daOAKW.png
+screenshot as of now: 
+
+- http://i.imgur.com/7daOAKW.png
+- http://i.imgur.com/4TMAkpJ.png
+- http://i.imgur.com/UcPYRXg.png
