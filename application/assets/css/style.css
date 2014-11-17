@@ -1,0 +1,78 @@
+
+body {
+    padding-top: 60px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+    background-color: gray;
+}
+
+.label{
+	color: black;
+}
+
+
+@media (max-width: 991px){
+
+#sidebar_container{
+	display:none;
+	}
+}
+
+section.profile-header{
+	color:black;
+	background:#eee;
+	padding-top: 15px;
+	text-align: center;
+}
+
+.profiletoggledown{
+	padding-bottom: 0px;
+}
+.gifplay-badge{
+
+position: absolute;
+margin-top: -152px;
+
+left: 50%;
+margin-left: -30px;
+height: 60px;
+width: 60px;
+text-align: center;
+overflow: hidden;
+background: #222;
+line-height: 58px;
+font-size: 20px;
+color: #fff;
+font-weight: bold;
+border-radius: 35px;
+opacity: .9;
+border: 5px solid #fff;
+cursor: pointer;
+
+}
+
+@media (max-width: 510px){
+
+.gifplay-badge{
+	margin-top: -130px;
+	}
+}
+
+.media-body .btn.btn-danger.btn-md{
+	float:right;
+}
+
+.scrollable-menu {
+      height: auto;
+      max-height: 200px;
+      overflow-x: hidden;
+    }
+
+.badge-important{
+	background-color: #db3b3b;
+}
+
+
+
